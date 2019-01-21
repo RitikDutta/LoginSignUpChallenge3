@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LCO</string>
+    <string name="tvswipDescription" />
+    <string name="toastTop" />
+    <string name="toastRight" />
+    <string name="toastLeft" />
+    <string name="toastBottom" />
+    <string name="login_signup">Login/SignUp</string>
+    <string name="user_name">User Name</string>
+</resources>
